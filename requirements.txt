@@ -1,0 +1,6 @@
+   numpy
+   pandas
+   ollama
+   sentence-transformers
+   PyPDF2
+   openpyxl
